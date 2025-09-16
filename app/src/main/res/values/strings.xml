@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PrimerbI</string>
+    <string name="btn_start">СТАРТ</string>
+    <string name="btn_check">ПРОВЕРКА</string>
+    <string name="enter_answer">Введите ответ</string>
+    <string name="correct">Правильно</string>
+    <string name="incorrect">Неверно. Правильный ответ: %1$d</string>
+    <string name="stats_format">Правильно: %1$d  Неправильно: %2$d  %3$.2f%%</string>
+    <string name="btn_back_to_menu">В главное меню</string>
+    <string name="btn_new_game">Новая игра</string>
+    <string name="btn_continue">Продолжить</string>
+    <string name="btn_exit">Выход</string>
+    <string name="exit_confirm">Выйти из приложения?</string>
+</resources>
